@@ -1,0 +1,14 @@
+{
+  "name": "one-drop-design-studio",
+  "version": "1.0.0",
+  "description": "WordPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm-scripts": "^1.4.0"
+  }
+}
